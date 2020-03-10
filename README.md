@@ -14,5 +14,5 @@ The objective of the game is to sort l_a.
 100% moulinette Epitech
 
 ### Coverage
-98.3% branches  
+98.4% branches  
 99.3% lines
